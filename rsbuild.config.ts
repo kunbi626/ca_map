@@ -29,7 +29,7 @@ export default defineConfig({
     title: "Business Help Center",
     meta: {
       viewport:
-        "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+        "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no", 'og:image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH70fZCOqL86qVH3KlOU6tbQ-OVJmM6gGAGA&s',
     },
   },
   performance: {
